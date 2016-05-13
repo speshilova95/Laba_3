@@ -1,0 +1,81 @@
+div.button1 {
+ background-color: rgb(224, 231, 252);
+  padding: 10px 10px 10px 1198px;
+}
+
+div.button1 p{
+ color: rgb(79, 204, 210);
+ margin:0;
+}
+
+button {
+	background-color: rgb(79, 204, 210);
+	margin-left: 8px;
+}
+
+body {
+	font-size: 18px;
+	background-image:url("background33.jpg");
+	margin:0;
+	padding:0;
+}
+
+header{
+	border-top: 2px solid rgb(32, 86, 115);
+	border-bottom: 2px solid rgb(32, 86, 155);
+	background-image:url("1.jpg");
+	height: 180px;
+}
+
+div.header1{
+	font-size: 40px;
+		padding:20px 0px 0px 35px;
+}
+
+div.kursive{
+	padding: 5px 0px 25px 30px;
+	font-style: italic;
+	font-size: 20px;
+}
+
+header aside {
+	width: 330px;
+	height: 100px;
+	float: right;
+	margin: -142px 100px;
+}
+
+aside p {
+	margin: 0px;
+}
+
+div.blok {
+	border: 10px outset rgb(79, 204, 210);
+	margin: 50px 0px 0px 302px;
+	border-radius: 20px;
+	padding: 0px 10px;
+	width: 700px;
+}
+
+div.name{
+	text-align: center;
+	font-size: 30px;
+}
+
+div.pole {
+text-align: center;
+}
+
+div.pole p.submit {
+  padding: 10px 10px 10px 500px;
+}
+
+div.oplata {
+	margin-top: 20px;
+}
+
+footer {
+	font-size: 16px;
+	text-align: right;
+	padding: 10px 50px 0 0;
+}
